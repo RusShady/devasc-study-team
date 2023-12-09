@@ -1,0 +1,3 @@
+I do DevNet homework
+I will start understand git
+this text was originally added while working on the feature
